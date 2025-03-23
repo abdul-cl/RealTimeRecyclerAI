@@ -1,0 +1,26 @@
+<annotation>
+	<folder>allimages</folder>
+	<filename>Image_127.png</filename>
+	<path>C:\Users\abdul\Desktop\ML Project\RealTimeObjectDetection\Tensorflow\workspace\images\allimages\Image_127.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Trash</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>84</xmin>
+			<ymin>1</ymin>
+			<xmax>176</xmax>
+			<ymax>255</ymax>
+		</bndbox>
+	</object>
+</annotation>

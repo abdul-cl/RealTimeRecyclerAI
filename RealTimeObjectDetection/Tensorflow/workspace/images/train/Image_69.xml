@@ -1,0 +1,38 @@
+<annotation>
+	<folder>allimages</folder>
+	<filename>Image_69.png</filename>
+	<path>C:\Users\abdul\Desktop\ML Project\RealTimeObjectDetection\Tensorflow\workspace\images\allimages\Image_69.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>recyclable</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>17</xmin>
+			<ymin>99</ymin>
+			<xmax>142</xmax>
+			<ymax>215</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>recyclable</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>144</xmin>
+			<ymin>34</ymin>
+			<xmax>235</xmax>
+			<ymax>188</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>allimages</folder>
+	<filename>Image_101.png</filename>
+	<path>C:\Users\abdul\Desktop\ML Project\RealTimeObjectDetection\Tensorflow\workspace\images\allimages\Image_101.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Compostabe</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>115</xmin>
+			<ymin>73</ymin>
+			<xmax>174</xmax>
+			<ymax>147</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Compostabe</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>167</xmin>
+			<ymin>57</ymin>
+			<xmax>246</xmax>
+			<ymax>117</ymax>
+		</bndbox>
+	</object>
+</annotation>
