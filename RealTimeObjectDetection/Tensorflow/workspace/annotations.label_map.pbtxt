@@ -1,0 +1,12 @@
+item{
+	name:'recyclable'
+	id:'1'
+}
+item{
+	name:'Compostabe'
+	id:'2'
+}
+item{
+	name:'Trash'
+	id:'3'
+}
